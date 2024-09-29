@@ -59,4 +59,7 @@ poetry run pytest ./tests
 
 ### Notes
 
-`.env` - I removed the entry in `.gitignore` since it does not contain any real secrets and makes the process of running more smoother. 
+`.env` - I removed the entry in `.gitignore` since it does not contain any real secrets and makes the process of running more smoother.
+
+
+Logging - It could probably be good to add some logging, to make debugging easier.
